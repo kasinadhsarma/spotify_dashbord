@@ -2,7 +2,7 @@ import { h, Fragment } from "preact";
 
 export default function TrackInfo({
 	track = "Peacing out （￣︶￣）↗　",
-	artist = "zman-1x1",
+	artist = "IRON HEART",
 }) {
 	return (
 		<Fragment>
